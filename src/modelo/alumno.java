@@ -4,5 +4,5 @@ public class alumno {
 
     String curso;
     String nombre;
-
+    String Telefono;
 }
